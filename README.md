@@ -6,10 +6,10 @@ O sistema funciona em uma rede local, sem necessidade de internet, no qual será
 
 ## O que foi feito
 
-- Esse repositorio contem o codigo Front-End do projeto, desenvolvido em React Js. Boa parte dos desafios propostos foram concluidos, porem ainda precisa de melhor polimento. 
+- Esse repositorio contem o codigo Front-End do projeto, desenvolvido em React Js. Boa parte dos desafios propostos foram concluidos, precisando ainda de melhor polimento. 
 
 
-## O que faltou:
+## O que faltou e Dificuldades encontradas:
 
 - Scroll de forma suave para a determinada parte da página.
 - Responsividade.
@@ -25,7 +25,6 @@ O sistema funciona em uma rede local, sem necessidade de internet, no qual será
 - Flex-Box
 - JavaScript
 - React
-
 
 ## Para rodar a aplicação:
 
