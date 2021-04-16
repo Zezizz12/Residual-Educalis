@@ -4,12 +4,18 @@ O Educalis é um projeto inovador que torna possível a Educação a Distância 
 Educalis foi criada pela união de jovens multidisciplinares com propósito de democratizar o acesso de comunidades com dificuldades de mobilidade urbana através da utilização de tecnologias. Juntamos as últimas tecnologias de hardware e software para criar nosso produto final com materiais de primeira linha e baixo custo de forma sustentável.
 O sistema funciona em uma rede local, sem necessidade de internet, no qual será mediado pelo nosso Ambiente Virtual de Aprendizagem (AVA). Nesse AVA as instituições de ensino poderão disponibilizar material didático, informações, realizar aulas com foco no processo de ensino e aprendizagem.
 
-## O que falta:
+## O que foi feito
 
-- lazy loading
-- Responsividade
-- LocalStoreage em todos os Inputs
-- Back-end
+- Esse repositorio contem o codigo Front-End do projeto, desenvolvido em React Js. Boa parte dos desafios propostos foram concluidos, porem ainda precisa de melhor polimento. 
+
+
+## O que faltou:
+
+- Scroll de forma suave para a determinada parte da página.
+- Responsividade.
+- LocalStoreage em todos os Inputs.
+- Estilização exata dos elementos de acordo com o Design.
+
 
 
 ## Tecnologias envolvidas:
