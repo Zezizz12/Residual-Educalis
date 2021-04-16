@@ -1,0 +1,13 @@
+
+
+.foter{
+    height: 299px;
+    width: 100%;
+    background-color: #CFE0E5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   justify-content: space-around;
+}
+
+
